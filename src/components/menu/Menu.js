@@ -4,7 +4,7 @@ import './MenuStyles.css'
 function Menu (){
     return (
         
-            <div>
+            <div className="container">
                 hvjhgjhg
                 
             </div>

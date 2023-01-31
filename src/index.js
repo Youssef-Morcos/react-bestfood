@@ -6,7 +6,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import MenuPage from './routes/MenuPage';
 import ReservationPage from './routes/ReservationPage';
-import ContactPage from './routes/ContactPage'
+import ContactPage from './routes/ContactPage';
 
 
 ReactDOM.render(
