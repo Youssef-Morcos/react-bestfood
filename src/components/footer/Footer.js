@@ -40,7 +40,6 @@ function Footer (){
                             <li>Policy</li>
                             <li>Privacy</li>
                             <li>Legal</li>
-                            <li>Contact</li>
                     
                         </ul>
                     </div>
