@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-bestfood/static/css/main.0d9ecf58.css",
+    "main.js": "/react-bestfood/static/js/main.126fa275.js",
+    "static/media/chinese.jpg": "/react-bestfood/static/media/chinese.88d389477f246f77e595.jpg",
+    "static/media/mexican.jpg": "/react-bestfood/static/media/mexican.d2a14e7146632bf8d047.jpg",
+    "static/media/internatinalfood.jpg": "/react-bestfood/static/media/internatinalfood.f539a312ad734d03bbd7.jpg",
+    "static/media/indian.jpeg": "/react-bestfood/static/media/indian.2b9e5faf554214fa85ab.jpeg",
+    "static/media/logo2.png": "/react-bestfood/static/media/logo2.a817c98c100adca6bc4f.png",
+    "static/media/ethiopian.jpg": "/react-bestfood/static/media/ethiopian.c0cab4b48d00fd8f36f8.jpg",
+    "static/media/vietnamese.jpg": "/react-bestfood/static/media/vietnamese.e33303e29ae29a9ab796.jpg",
+    "index.html": "/react-bestfood/index.html",
+    "main.0d9ecf58.css.map": "/react-bestfood/static/css/main.0d9ecf58.css.map",
+    "main.126fa275.js.map": "/react-bestfood/static/js/main.126fa275.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d9ecf58.css",
+    "static/js/main.126fa275.js"
+  ]
+}
