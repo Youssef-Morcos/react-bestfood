@@ -10,7 +10,7 @@ import ContactPage from './routes/ContactPage';
 
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename='/react-bestfood'>
     <Routes>
       <Route path='/' element={<App/>} />
       <Route path='/menu' element={<MenuPage/>} />
