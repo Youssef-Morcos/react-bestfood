@@ -45,3 +45,7 @@ form textarea {
     padding-top: 25px;
     text-align: left;
 }
+
+#submitForm {
+    cursor: pointer;
+}
